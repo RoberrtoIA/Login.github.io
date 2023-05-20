@@ -1,0 +1,30 @@
+#GFG {
+    text-decoration: none;
+    color: white;
+}
+
+#tabla {
+    background-color: hsl(224, 25%, 17%);
+    color: #eaeaea;
+    text-align: center;
+    align-content: center;
+}
+
+.button {
+    background-color: white;
+    color: black !important;
+    border: 1px solid black;
+}
+
+.button:hover {
+    background-color: black;
+    color: white !important;
+}
+
+.formulario {
+    margin:0;
+    padding:0;
+    margin:0px;
+    padding:0px;
+    display:inline;
+}
